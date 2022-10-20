@@ -14,7 +14,7 @@
 
 -💡 Tenho vários projetos realizados em cursos como: blogs, página inicial de um banco, clone do Spotify etc
 
--⏳ Próimos projetos à serem feitos: Clone do Evernote, clone do Netflix e Portfólio pessoal
+-⏳ Próximos projetos à serem feitos: Clone do Evernote, clone do Netflix e Portfólio pessoal
 
 <br><br>
 
