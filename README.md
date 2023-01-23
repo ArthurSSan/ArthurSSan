@@ -4,7 +4,7 @@
 
 -👨‍💻 Desenvolvedor Front-End 
 
--👨‍🎓 Estou cursando Análise e desenvolvimento de sistemas (3º Semestre)
+-👨‍🎓 Estou cursando Análise e desenvolvimento de sistemas  ( 4º Semestre )
 
 -💻 Faço curso na Alura, RocketSeat e o último que me matriculei recentemente foi da OneBitCode
 
