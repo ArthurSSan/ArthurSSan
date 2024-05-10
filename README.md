@@ -2,19 +2,9 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </h1>
 
--👨‍💻 Desenvolvedor Front-End 
+-👨‍💻 Desenvolvedor Full-stack
 
--👨‍🎓 Estou cursando Análise e desenvolvimento de sistemas  ( 4º Semestre )
-
--💻 Faço curso na Alura, RocketSeat e o último que me matriculei recentemente foi da OneBitCode
-
--📘 Estou aprendendo ReactJs e me aperfeiçoando em JavaScript
-
--🔎 Em busca da primeira oportunidade de entrar na área
-
--💡 Tenho vários projetos realizados em cursos como: blogs, página inicial de um banco, clone do Spotify etc
-
--⏳ Próximos projetos à serem feitos: Clone do Evernote, clone do Netflix e Portfólio pessoal
+-👨‍🎓 Formado em Análise e desenvolvimento de sistemas
 
 <br><br>
 
